@@ -53,7 +53,7 @@ To facilitate object detection and recognition tasks, the dataset has undergone 
 
 Please cite the following paper and this GitHub repository, if you use this dataset in your work:
 
-Ashraf-Ul-Alam; Soumit Das; Sudipta Progga Islam, “BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture”, doi: DOI will be added soon
+> Ashraf-Ul-Alam; Soumit Das; Sudipta Progga Islam, “BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture”, doi: DOI will be added soon
 
 The Bengali Mathematical Expression Detection dataset is highly valuable for developing algorithms to accurately detect and recognize Bengali mathematical expressions. It has numerous applications in document processing, automatic grading systems, handwriting recognition, and educational technology. Training on this dataset enables algorithms to efficiently interpret and analyze mathematical expressions, bringing automation and efficiency to tasks involving Bengali mathematics.
 
